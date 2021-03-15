@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @kindsaah
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @ Saah Kindy   
+- 👀 I’m interested in cybersecurity
+- 🌱 I’m currently learning kali linux and ubuntu
+- 💞️ I’m looking to collaborate on future projects
+- 📫 How to reach me kindsaah@gmail.com
 
 <!---
 kindsaah/kindsaah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
